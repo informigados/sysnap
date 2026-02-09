@@ -124,7 +124,7 @@ sysnap/
 
 **Alex H. P. Brito**  
 [Professor, Programmer, Speaker]  
-<sub>CEO & Founder — INformigados</sub>
+**CEO & Founder — INformigados**
 
 - 🌐 **Personal Website**: [alexhpbrito.com.br](https://alexhpbrito.com.br)
 - 🏢 **Business Website**: [informigados.com.br](https://informigados.com.br)
