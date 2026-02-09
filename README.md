@@ -23,7 +23,7 @@
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/alexhpbrito/sysnap.git
+   git clone https://github.com/informigados/sysnap.git
    cd sysnap
    ```
 2. Install dependencies:
