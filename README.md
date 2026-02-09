@@ -122,9 +122,9 @@ sysnap/
 
 ## 👤 Author
 
-**Alex H. P. Brito**
-*Professor, Programmer, Speaker*
-*CEO & Founder INformigados*
+**Alex H. P. Brito**  
+[Professor, Programmer, Speaker]  
+<sub>CEO & Founder — INformigados</sub>
 
 - 🌐 **Personal Website**: [alexhpbrito.com.br](https://alexhpbrito.com.br)
 - 🏢 **Business Website**: [informigados.com.br](https://informigados.com.br)
