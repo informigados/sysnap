@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sysnap"
+version = "0.1.0"
+description = "System Snapshot Tool - Collect and record system state snapshots"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [
+    {name = "Alex H. P. Brito", email = "contato@informigados.com.br"}
+]
+maintainers = [
+    {name = "Alex H. P. Brito", email = "contato@informigados.com.br"}
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "psutil",
+    "py-cpuinfo",
+]
+
+[project.urls]
+"Homepage" = "https://informigados.com.br"
+"Author Website" = "https://alexhpbrito.com.br"
+
+[project.scripts]
+sysnap = "sysnap.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
