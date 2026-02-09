@@ -113,13 +113,6 @@ sysnap/
 - **Reports**: Support for JSON (machine) and TXT (human) output formats.
 - **Diff Engine**: Logic to compare two system snapshots and report differences.
 
-## 🛣️ Roadmap
-
-- [ ] **Binary Distribution**: Build single-file executables using PyInstaller.
-- [ ] **Remote Snapshot**: Support for capturing snapshots via SSH.
-- [ ] **Plugins System**: Allow custom collectors for specific apps (Docker, Postgres, etc.).
-- [ ] **Web Viewer**: Simple HTML report generator.
-
 ## 👤 Author
 
 **Alex H. P. Brito**  
