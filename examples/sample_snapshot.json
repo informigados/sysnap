@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "timestamp": "2026-02-09T01:27:30.074823",
+    "version": "1.0"
+  },
+  "system": {
+    "os": "Windows",
+    "release": "11",
+    "version": "10.0.26200",
+    "architecture": "AMD64",
+    "hostname": "INformigados-1",
+    "boot_time": "2026-02-09 00:09:42",
+    "uptime_seconds": 4667,
+    "platform_details": "Windows-11-10.0.26200-SP0"
+  },
+  "cpu": {
+    "model": "Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz",
+    "architecture": "X86_64",
+    "physical_cores": 6,
+    "logical_cores": 12,
+    "min_frequency_mhz": 0.0,
+    "max_frequency_mhz": 2904.0,
+    "current_frequency_mhz": 2904.0,
+    "usage_percent": 21.5
+  },
+  "memory": {
+    "virtual_memory": {
+      "total": 34285596672,
+      "available": 22401298432,
+      "used": 11884298240,
+      "free": 22401298432,
+      "percent": 34.7,
+      "total_human": "31.93 GB",
+      "used_human": "11.07 GB",
+      "free_human": "20.86 GB"
+    },
+    "swap_memory": {
+      "total": 12884901888,
+      "used": 0,
+      "free": 12884901888,
+      "percent": 0.0,
+      "total_human": "12.00 GB"
+    }
+  },
+  "disk": {
+    "partitions": [
+      {
+        "device": "C:\\",
+        "mountpoint": "C:\\",
+        "fstype": "NTFS",
+        "opts": "rw,fixed",
+        "total": 498911416320,
+        "used": 382371573760,
+        "free": 116539842560,
+        "percent": 76.6,
+        "total_human": "464.65 GB",
+        "free_human": "108.54 GB"
+      },
+      {
+        "device": "D:\\",
+        "mountpoint": "D:\\",
+        "fstype": "NTFS",
+        "opts": "rw,fixed",
+        "total": 500090007552,
+        "used": 461092167680,
+        "free": 38997839872,
+        "percent": 92.2,
+        "total_human": "465.75 GB",
+        "free_human": "36.32 GB"
+      },
+      {
+        "device": "F:\\",
+        "mountpoint": "F:\\",
+        "fstype": "NTFS",
+        "opts": "rw,fixed",
+        "total": 1000203087872,
+        "used": 363046490112,
+        "free": 637156597760,
+        "percent": 36.3,
+        "total_human": "931.51 GB",
+        "free_human": "593.40 GB"
+      }
+    ]
+  },
+  "network": {
+    "interfaces": {
+      "Ethernet 3": {
+        "is_up": true,
+        "speed_mbps": 1000,
+        "addresses": [
+          {
+            "family": "IPv4",
+            "address": "192.168.1.5",
+            "netmask": "255.255.255.0",
+            "broadcast": null
+          },
+          {
+            "family": "IPv6",
+            "address": "fe80::4170:bc56:81d:786c"
+          }
+        ],
+        "mac_address": "18-C0-4D-F5-FA-D3"
+      },
+      "Conexão Local": {
+        "is_up": false,
+        "speed_mbps": 4294,
+        "addresses": [
+          {
+            "family": "IPv4",
+            "address": "169.254.252.132",
+            "netmask": "255.255.0.0",
+            "broadcast": null
+          },
+          {
+            "family": "IPv6",
+            "address": "fe80::56f5:80c1:dd14:d5f6"
+          }
+        ]
+      },
+      "Loopback Pseudo-Interface 1": {
+        "is_up": true,
+        "speed_mbps": 1073,
+        "addresses": [
+          {
+            "family": "IPv4",
+            "address": "127.0.0.1",
+            "netmask": "255.0.0.0",
+            "broadcast": null
+          },
+          {
+            "family": "IPv6",
+            "address": "::1"
+          }
+        ]
+      }
+    }
+  }
+}

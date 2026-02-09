@@ -1,0 +1,45 @@
+============================================================
+SYSNAP SYSTEM SNAPSHOT REPORT
+============================================================
+Generated at: 2026-02-09T01:27:30.074823
+Version:      1.0
+
+[SYSTEM]
+Hostname:     INformigados-1
+OS:           Windows 11 (10.0.26200)
+Architecture: AMD64
+Boot Time:    2026-02-09 00:09:42
+Uptime:       1 hours
+
+[CPU]
+Model:        Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz
+Cores:        6 Physical / 12 Logical
+Frequency:    2904.00 MHz (Max: 2904.00 MHz)
+Usage:        21.5%
+
+[MEMORY]
+Total:        31.93 GB
+Used:         11.07 GB (34.7%)
+Free:         20.86 GB
+
+[DISK]
+Mount: C:\ (NTFS)
+  Total: 464.65 GB | Free: 108.54 GB | Used: 76.6%
+Mount: D:\ (NTFS)
+  Total: 465.75 GB | Free: 36.32 GB | Used: 92.2%
+Mount: F:\ (NTFS)
+  Total: 931.51 GB | Free: 593.40 GB | Used: 36.3%
+
+[NETWORK]
+Interface: Ethernet 3 [UP]
+  IPv4: 192.168.1.5
+  IPv6: fe80::4170:bc56:81d:786c
+Interface: Conexão Local [DOWN]
+  IPv4: 169.254.252.132
+  IPv6: fe80::56f5:80c1:dd14:d5f6
+Interface: Loopback Pseudo-Interface 1 [UP]
+  IPv4: 127.0.0.1
+  IPv6: ::1
+
+============================================================
+End of Report
