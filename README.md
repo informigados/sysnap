@@ -2,7 +2,8 @@
 
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Platform](https://img.shields.io/badge/platform-windows%20%7C%20linux%20%7C%20macos-lightgrey)
+![Platform](https://img.shields.io/badge/platform-windows%20%7C%20linux%20%7C%20macos-lightgrey) 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/informigados/sysnap)
 
 **SYSNAP** is a lightweight, professional command-line utility designed to capture, record, and compare system states. Built with Python, it provides a simple yet powerful way to generate detailed JSON snapshots and human-readable reports of your machine's configuration and resources, making it ideal for technical support, diagnostics, and auditing.
 
